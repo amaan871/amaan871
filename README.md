@@ -35,7 +35,7 @@
 - etc.
 
 ## 💻 Recent project
-- [Rajagiri-Connect](https://github.com/Jvillegasd/financial-go)
+- [Rajagiri-Connect](https://github.com/amaan871/rajagiri-connect)
 
 
 
