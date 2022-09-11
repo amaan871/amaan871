@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Muhammad Amaan</h1>
+<h1 align="center">Hey <img src="https://github.com/sakshampruthi/sakshampruthi/blob/master/assets/Hi.gif" width="30px"> , I'm Muhammad Amaan</h1>
 <h3 align="center">A Computer Science student from Kerala, India</h3>
 
 <h3>
