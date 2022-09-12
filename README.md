@@ -1,5 +1,7 @@
 <h1 align="center">Hey <img src="https://github.com/sakshampruthi/sakshampruthi/blob/master/assets/Hi.gif" width="30px"> , I'm Muhammad Amaan</h1>
-<h3 align="center">A Computer Science student from Kerala, India</h3>
+<p align="center">
+I'm currently a student pursuing my Bachelor of Technology in Computer Science and Engineering  from RSET, Kerala. I mainly code in C,C++, Java and also have experience in coding Python and Bash scripts. I am passionate about areas of Cybersecurity such as Pentesting, Exploit Development and have been doing courses in this field. I am also involved in various college-related events and have experience in organizing and volunteering for hackathons, Ideathons and Fests conducted by different communities within the college.
+</p>
 
 <h3>
 <p align="center">
